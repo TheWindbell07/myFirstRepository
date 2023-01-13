@@ -1,2 +1,2 @@
 # myFirstRepository
-Only for test.
+This repository is for test only.
